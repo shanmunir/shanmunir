@@ -35,7 +35,6 @@ Experienced in Artificial Intelligence and Full Stack Development, I specialize 
 📞 +92-303-6107673  
 
 ## 🔬 Research Areas
-## 🔬 Research Areas
 - 🧠 NLP for English/Urdu/Roman Urdu  
 - 🤖 Chatbots  
 - 🎯 Recommender Systems  
