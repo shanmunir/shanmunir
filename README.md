@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Shan Munir
 
-**Passionate Researcher | NLP Specialist | Machine Learning Enthusiast | Python Developer | AI Engineer | LowCode/NoCode Developer | Azure Payoneer | Client-Side Inference**
+**Passionate Researcher | NLP Specialist | Machine Learning Enthusiast | Python Developer | AI Engineer | LowCode/NoCode Developer | Azure Payoneer | Client-Side AI Inference Integration Developer**
 
 Experienced in Artificial Intelligence and Full Stack Development, I specialize in building intelligent systems using ML, NLP, Generative AI, and LLMs. With over 6 years in software development and 2+ years in applied AI, I bridge the gap between data science and production-ready software—delivering scalable, intelligent solutions across domains like bioinformatics and enterprise applications.
 
