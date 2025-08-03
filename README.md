@@ -15,6 +15,9 @@ Experienced in Artificial Intelligence and Full Stack Development, I specialize 
 
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
 <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" /></a>
+<a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" /></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /></a>
+<a href="https://trypyramid.com/"><img src="https://img.shields.io/badge/-Pyramid-FDC500?style=flat-square&logo=pyramid&logoColor=black" /></a>
 <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" /></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /></a>
 <a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/-VisualStudio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" /></a>
