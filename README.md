@@ -33,6 +33,7 @@ Experienced in Artificial Intelligence and Full Stack Development, I specialize 
 <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" /></a>
 
 💼 My Portfolio
+
 🔁 n8n Automation Projects
 https://www.youtube.com/playlist?list=PLp2fsDk3VyiLwUzPYhNsDeCSVmILKYIx8
 
