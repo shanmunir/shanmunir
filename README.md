@@ -32,10 +32,16 @@ Experienced in Artificial Intelligence and Full Stack Development, I specialize 
 <a href="https://www.oracle.com/database/"><img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" /></a>
 <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" /></a>
 
-## 🔗 My work
-n8n Automation Projects => https://www.youtube.com/playlist?list=PLp2fsDk3VyiLwUzPYhNsDeCSVmILKYIx8
-SeqStudio               => https://sds-genetic-interaction-analysis.opendfki.de/seq-studio/
-Intelliscope            => https://sds-genetic-interaction-analysis.opendfki.de/biomedical_discovery/
+💼 My Portfolio
+🔁 n8n Automation Projects
+https://www.youtube.com/playlist?list=PLp2fsDk3VyiLwUzPYhNsDeCSVmILKYIx8
+
+🧬 SeqStudio – Omics Pipeline Builder
+https://sds-genetic-interaction-analysis.opendfki.de/seq-studio/
+
+🔬 IntelliScope – Biomedical Discovery Toolkit
+https://sds-genetic-interaction-analysis.opendfki.de/biomedical_discovery/
+
 
 
 ## 📌 About Me
