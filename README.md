@@ -47,7 +47,6 @@ https://sds-genetic-interaction-analysis.opendfki.de/biomedical_discovery/
 
 ## 📌 About Me
 📍 Lahore, Pakistan  
-📞 +92-303-6107673  
 
 ## 🔬 Area of Expertise
 - 🧠 NLP for English/Urdu/Roman Urdu  
